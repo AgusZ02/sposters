@@ -1,8 +1,8 @@
-# <a href="https://agusz02.github.io/SpostersWeb/">Sposter</a> 
+# <a href="https://agarciacif.github.io/SpostersWeb/">Sposter</a> 
 Generates posters from any album/song/artist available on Spotify. It grabs the cover art, scannable code and and combines them into a single image wich you can download in a single click. Current output size is 640x800 pixels, since that is the biggest resolution that Spotify's API provides for album covers.
 
 <p align="center">
-    <img src="https://github.com/AgusZ02/Sposter/assets/76200509/9e349f73-0ae2-4ae6-9b7c-d92c9daa9ebe" alt="Badge"/>  
+    <img src="https://github.com/agarciacif/Sposter/assets/76200509/9e349f73-0ae2-4ae6-9b7c-d92c9daa9ebe" alt="Badge"/>  
 </p>
 
 # Features
